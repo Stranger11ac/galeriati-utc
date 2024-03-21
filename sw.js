@@ -1,5 +1,5 @@
 // Nombre del caché
-const CACHE_DOCUMENT = "galeriati-cache3";
+const CACHE_DOCUMENT = "galeriati-cache4";
 
 // Archivos para almacenar en caché
 const urlsToCache = [
@@ -20,6 +20,8 @@ const urlsToCache = [
     "img/programacion.jpg",
     "img/cuatri1.jpeg",
     "img/basedatos.png",
+    "img/CatsDreams_03.png",
+    "img/CatsDreams_06.png",
     "img/design.jpg",
     "img/paginaweb.png",
     "img/animacion.jpg",
