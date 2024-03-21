@@ -1,0 +1,20 @@
+{
+    "name": "Galeria TI UTC", 
+    "short_name": "Galeria TI", 
+    "start_url": "index.html", 
+    "display": "fullscreen", 
+    "icons": [
+        {
+            "src": "img/logo.jpeg",
+            "sizes": "500x500"
+        }
+    ],
+    "form_factor": "narrow",
+    "orientation": "natural",
+    "display_override": ["standalone", "fullscreen"],
+    "scope":"/",
+    "theme_color ": "#2e2f31",
+    "background_color": "#2e2f31"
+}
+
+  
